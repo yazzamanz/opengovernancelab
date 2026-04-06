@@ -1,2 +1,2 @@
 # opengovernancelab
-Open Governance Lab — an open‑source, human‑in‑the‑loop policy stack. It connects official data (stats &amp; laws), runs transparent simulations, checks legal/equity constraints, and provides an open UI for proposals, evidence, and critique—closing the loop via Outcome Accounts and Decision Records.
+Open Governance Lab — an open‑source, AI driven, human‑in‑the‑loop policy stack. It connects official data (stats &amp; laws), runs transparent simulations, checks legal/equity constraints, and provides an open UI for proposals, evidence, and critique—closing the loop via Outcome Accounts and Decision Records. System fully AI run and deployable anywhere in the world, inject laws and regulations, hook up your stats and go Govenrnance.
