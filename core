@@ -1,0 +1,8 @@
+core/
+└── agents/
+    └── law_graph_agent/
+        ├── README.md
+        ├── mission.md
+        ├── schema.yaml
+        ├── agent_spec.md
+        ├── TODO.md
